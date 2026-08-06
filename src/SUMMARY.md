@@ -1,0 +1,9 @@
+# Summary
+
+- [Home](chapter_1.md)
+- [Beyond the Current Number: Why Change Ratios Matter in Banking Migration Dashboards](Beyond_the_Current_Number_Why_Change_Ratios_Matter_in_Banking_Migration_Dashboards/Beyond_the_Current_Number_Why_Change_Ratios_Matter_in_Banking_Migration_Dashboards.md)
+
+- [Three_Analytical_Measures_Banking_Payroll_Monitoring](Three_Analytical_Measures_Banking_Payroll_Monitoring/Three_Analytical_Measures_Banking_Payroll_Monitoring.md)
+
+- [Power_BI_Semantic_Model_from_a_Business_Perspective](Power_BI_Semantic_Model_from_a_Business_Perspective/Power_BI_Semantic_Model_from_a_Business_Perspective.md)
+
