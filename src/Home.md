@@ -1,10 +1,10 @@
 # Home
 
+#### Welcome to the Quiet Space!
 
 
-# Welcome to the Quiet Space
 
-
+![home_banner](images\home_banner.png)
 
 Most of the day, we live inside what we can see.
 
