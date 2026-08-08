@@ -3,14 +3,14 @@
 | Article Metadata | Details |
 |---|---|
 | **Article Level** | Intermediate |
-| **Publication Date and Time** | 6 August 2026, 10:45 PM — Arabia Standard Time |
+| **Publication Date and Time** | 26 June 2026, 10:45 PM — Arabia Standard Time |
 | **Article Category** | Banking Analytics; Payroll Operations; Decision Support; Dashboard Governance |
 | **Target Audience** | Banking decision-makers, payroll operations leaders, product managers, service managers, business analysts, data analysts, and Power BI developers |
 | **Article Type** | Fictionalized professional case study with practical technical guidance |
 | **Estimated Reading Time** | 9–11 minutes |
 | **Primary Business Domain** | Corporate banking payroll monitoring and operational decision support |
 | **Tools and Technologies** | Power BI, DAX, Power Query, snapshot datasets, governed status definitions, and reconciliation controls |
-| **Author** | Ahmed Mohamed Safwat — Digital Corporate Platform Manager | Product Manager | Banking Analytics and Transformation |
+| **Author** | Ahmed Mohamed Safwat — Digital Corporate Platform Manager |
 | **Article Version** | 1.0 — Publication Edition |
 | **Privacy Note** | The story, organization, characters, figures, and operational events in this article are fictional and created only to explain the analytical concepts. They are not based on the author’s employer, colleagues, customers, systems, or actual projects. |
 

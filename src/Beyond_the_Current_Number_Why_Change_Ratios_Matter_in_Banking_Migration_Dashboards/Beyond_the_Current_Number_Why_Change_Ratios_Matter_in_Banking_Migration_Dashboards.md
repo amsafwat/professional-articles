@@ -3,7 +3,7 @@
 | Article Metadata | Details |
 |---|---|
 | **Article Level** | Intermediate |
-| **Publication Date and Time** | 6 August 2026, 11:12 PM — Arabia Standard Time |
+| **Publication Date and Time** | 12 June 2026, 11:12 PM |
 | **Article Category** | Banking Analytics; Migration Monitoring; Dashboard Governance; Decision Support |
 | **Target Audience** | Banking decision-makers, product managers, migration leaders, operations managers, business analysts, data analysts, Power BI developers, and governance professionals |
 | **Article Type** | Fictionalized professional case study with practical technical guidance |
