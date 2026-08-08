@@ -10,7 +10,7 @@
 | **Estimated Reading Time** | 11–13 minutes |
 | **Primary Business Domain** | Enterprise reporting, operational analytics, and management decision support |
 | **Tools and Technologies** | Power BI, DAX, Power Query, star-schema modeling, governed business definitions, and row-level security |
-| **Author** | Ahmed Mohamed Safwat — Digital Corporate Platform Manager |
+| **Prepared by** | Ahmed Safwat Gawady |
 | **Article Version** | 1.0 — Publication Edition |
 | **Privacy Note** | The organization, people, systems, figures, and events in this article are entirely fictional. They were created only to explain the analytical concepts and are not based on the author’s employer, colleagues, clients, systems, or actual projects. |
 

@@ -10,7 +10,7 @@
 | **Estimated Reading Time** | 9–11 minutes |
 | **Primary Business Domain** | Corporate banking payroll monitoring and operational decision support |
 | **Tools and Technologies** | Power BI, DAX, Power Query, snapshot datasets, governed status definitions, and reconciliation controls |
-| **Author** | Ahmed Mohamed Safwat — Digital Corporate Platform Manager |
+| **Prepared by** | Ahmed Safwat Gawady |
 | **Article Version** | 1.0 — Publication Edition |
 | **Privacy Note** | The story, organization, characters, figures, and operational events in this article are fictional and created only to explain the analytical concepts. They are not based on the author’s employer, colleagues, customers, systems, or actual projects. |
 

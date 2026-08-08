@@ -10,7 +10,7 @@
 | **Estimated Reading Time** | 11–13 minutes |
 | **Primary Business Domain** | Corporate digital-banking migration and operational monitoring |
 | **Tools and Technologies** | Power BI, DAX, Power Query, governed snapshot data, validation rules, and semantic modeling |
-| **Author** | Ahmed Mohamed Safwat — Digital Corporate Platform Manager \| Product Manager \| Banking Analytics and Transformation |
+| **Prepared by** | Ahmed Safwat Gawady |
 | **Article Version** | 1.0 — Publication Edition |
 | **Privacy Note** | The organization, people, figures, dates, systems, and events in this article are entirely fictional. They were created only to explain the analytical concepts and are not based on the author’s employer, colleagues, clients, systems, or actual projects. |
 
