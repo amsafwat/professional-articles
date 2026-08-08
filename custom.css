@@ -1,0 +1,8 @@
+.chapter li.chapter-item > a::before {
+    content: "• ";
+}
+
+.chapter li.part-title > a::before,
+.chapter li.part-title::before {
+    content: "";
+}
