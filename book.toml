@@ -8,6 +8,10 @@ language = "en"
 [preprocessor.mermaid]
 command = "mdbook-mermaid"
 
+[preprocessor.katex]
+after = ["links"]
+optional = true
+
 [output]
 
 [output.html]

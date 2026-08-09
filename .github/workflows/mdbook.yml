@@ -26,10 +26,11 @@ jobs:
       - name: Install Rust
         uses: dtolnay/rust-toolchain@stable
 
-      - name: Install mdBook and Mermaid
+      - name: Install mdBook, Mermaid, and KaTeX
         run: |
           cargo install mdbook --locked
           cargo install mdbook-mermaid --locked
+          cargo install mdbook-katex
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
