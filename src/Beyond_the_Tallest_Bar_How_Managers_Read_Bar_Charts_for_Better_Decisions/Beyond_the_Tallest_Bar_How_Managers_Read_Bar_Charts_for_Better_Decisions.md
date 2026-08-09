@@ -383,9 +383,3 @@ That small change in language creates space for better questions, clearer owners
 The chart still performs its job. It shows the comparison.
 
 Management performs the next one: giving that comparison meaning.
-
-------
-
-**Validation result:** Passed. Title, Article Level, Publication Date, and Additional Note were available. The supplied level and publication timestamp were reproduced exactly.
-
-**Quality-gate result:** Passed. The article uses a privacy-safe experience-inspired scenario, distinguishes synthetic evidence from sourced principles, provides Intermediate-level technical detail, integrates PMP, Scrum, and ITIL concepts only where relevant, includes an explanatory Mermaid diagram and complete image placeholder, addresses limitations, and contains no publishing action or generated article image.
