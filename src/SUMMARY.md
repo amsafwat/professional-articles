@@ -13,3 +13,5 @@
 - [26 June 2026](Three_Analytical_Measures_Banking_Payroll_Monitoring/Three_Analytical_Measures_Banking_Payroll_Monitoring.md)
 
 # May 2026
+
+- [08 May 2026](Beyond the Tallest Bar How Managers Read Bar Charts for Better Decisions/Beyond the Tallest Bar How Managers Read Bar Charts for Better Decisions.md)
