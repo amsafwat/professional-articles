@@ -110,7 +110,12 @@ If Category A records 180 issues and Category B records 60, Category A appears w
 
 Their issue rates become:
 
-\[ \text{Category A issue rate}=\frac{180}{18{,}000}=1\% \]\[ \text{Category B issue rate}=\frac{60}{1{,}000}=6\% \]
+```math
+\begin{aligned}
+\text{Category A issue rate} &= \frac{180}{18{,}000} = 1\% \\
+\text{Category B issue rate} &= \frac{60}{1{,}000} = 6\%
+\end{aligned}
+```
 
 Now the management interpretation changes. Category A produces more issues, but Category B has the higher proportional failure.
 
