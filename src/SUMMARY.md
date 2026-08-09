@@ -14,6 +14,7 @@
 
 # May 2026
 
+- [22 May 2026](From_Status_to_Strategy_Bridging_Project_and_Product_Reporting/From_Status_to_Strategy_Bridging_Project_and_Product_Reporting.md)
 - [15 May 2026](The_Average_Is_Not_Always_Typical_Tailoring_Mean_and_Median_to_Business_Decisions/The_Average_Is_Not_Always_Typical_Tailoring_Mean_and_Median_to_Business_Decisions.md)
 - [08 May 2026](Beyond_the_Tallest_Bar_How_Managers_Read_Bar_Charts_for_Better_Decisions/Beyond_the_Tallest_Bar_How_Managers_Read_Bar_Charts_for_Better_Decisions.md)
 
