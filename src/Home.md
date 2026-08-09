@@ -1,6 +1,6 @@
 # Home
 
-#### Welcome to the Quiet Space!
+Welcome to the my Quiet Space!
 
 
 
@@ -37,10 +37,6 @@ Sometimes an article.
 Sometimes just a thought worth keeping.
 
 So, welcome to my quiet corner of notes, reflections, and professional experiments.
-
-My thoughts.  
-A little coffee.  
-A little AI.
 
 And occasionally, something hiding in the dark that becomes clearer when we stop looking directly at it.
 
