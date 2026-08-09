@@ -14,7 +14,7 @@
 
 A bar chart appears simple: compare the bars and identify the largest one. Yet the tallest bar does not automatically represent the greatest risk, the highest priority, or the best management action. A manager must read beyond visual height and examine the measure, denominator, target, time window, filters, and business consequence behind each category. This article follows an experience-inspired situation in which a technically correct chart initially encouraged the wrong operational response. It then develops a practical method for turning bar charts from passive reporting objects into disciplined decision instruments, supported by sound measurement, transparent assumptions, and professional judgment.
 
-![Gemini_Generated_Image_ul3zncul3zncul3z](images\Gemini_Generated_Image_ul3zncul3zncul3z.png)
+![Gemini_Generated_Image_ul3zncul3zncul3z](images/Gemini_Generated_Image_ul3zncul3zncul3z.png)
 
 ## The Chart Looked Obvious
 
@@ -68,8 +68,6 @@ flowchart TD
     D --> E["Which action follows?"]
 ```
 
-
-
 The sequence prevents the decision from jumping directly from visual size to managerial action. A bar becomes decision-useful only after its definition, comparison basis, analytical context, consequence, and possible response are understood.
 
 ### What is actually being measured?
@@ -110,12 +108,12 @@ If Category A records 180 issues and Category B records 60, Category A appears w
 
 Their issue rates become:
 
-```math
+$$
 \begin{aligned}
 \text{Category A issue rate} &= \frac{180}{18{,}000} = 1\% \\
 \text{Category B issue rate} &= \frac{60}{1{,}000} = 6\%
 \end{aligned}
-```
+$$
 
 Now the management interpretation changes. Category A produces more issues, but Category B has the higher proportional failure.
 
@@ -208,9 +206,25 @@ But the denominator explains the operating opportunity in which those events occ
 
 An increase from 100 to 130 issues appears negative. Yet the interpretation depends on what happened to total activity.
 
-If volume increased from 10,000 to 20,000 cases, the rate fell from 1.0% to 0.65%. Workload increased, but proportional quality improved.
+If volume increased from 10,000 to 20,000 cases:
 
-If volume fell from 10,000 to 5,000 cases, the rate rose from 1.0% to 2.6%. Both the count and the rate now indicate deterioration.
+$$
+\frac{100}{10{,}000}=1.0\%
+\qquad \longrightarrow \qquad
+\frac{130}{20{,}000}=0.65\%
+$$
+
+Workload increased, but proportional quality improved.
+
+If volume fell from 10,000 to 5,000 cases:
+
+$$
+\frac{100}{10{,}000}=1.0\%
+\qquad \longrightarrow \qquad
+\frac{130}{5{,}000}=2.6\%
+$$
+
+Both the count and the rate now indicate deterioration.
 
 Think about it: the same numerator can support different decisions depending on its denominator.
 
@@ -224,7 +238,7 @@ Suppose a Power BI model contains an `Operations` fact table with one row per pr
 
 The input is the filtered set of operational cases. The output is a decimal rate representing issue cases divided by all eligible cases within the same filter context.
 
-```
+```DAX
 Issue Cases :=
 CALCULATE(
     COUNTROWS(Operations),
