@@ -15,3 +15,5 @@
 # May 2026
 
 - [08 May 2026](Beyond the Tallest Bar How Managers Read Bar Charts for Better Decisions/Beyond the Tallest Bar How Managers Read Bar Charts for Better Decisions.md)
+
+- 
