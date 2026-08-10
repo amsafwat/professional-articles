@@ -94,13 +94,13 @@ Let’s assume a synthetic set of 200 recurring service issues.
 
 For each category, the share of total is:
 
-\[
+$$
 \text{Category share}
 =
 \frac{\text{Category contribution}}
 {\text{Total contribution}}
 \times 100
-\]
+$$
 
 The cumulative share adds each category’s percentage to the percentages of all categories ranked above it.
 
