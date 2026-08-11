@@ -6,7 +6,7 @@
 | **Publication Date** | 04 April 2026 08:30 PM |
 | **Article Category** | Business Analytics and Decision Support |
 | **Target Audience** | Managers, product managers, project managers, service managers, Scrum Masters, business analysts, and reporting professionals |
-| **Author** | Ahmed Safwat Gawady |
+| **Prepared By** | Ahmed Safwat Gawady |
 | **Estimated Reading Time** | 10 minutes |
 | **Privacy Note** | The events, organization, characters, figures, and operational situations in this article are based on my experience to help the article deliver its value and are created only to explain the analytical concepts. They are not based on the author’s employer, colleagues, customers, systems, or actual projects. |
 

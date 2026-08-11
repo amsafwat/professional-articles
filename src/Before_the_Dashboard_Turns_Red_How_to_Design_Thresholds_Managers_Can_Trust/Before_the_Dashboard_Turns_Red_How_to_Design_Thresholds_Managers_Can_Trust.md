@@ -6,7 +6,7 @@
 | **Publication Date** | 18 April 2026 07:50 PM |
 | **Article Category** | Performance Management and Business Analytics |
 | **Target Audience** | Managers, product managers, project managers, service managers, Scrum Masters, business analysts, and Power BI professionals |
-| **Author** | Ahmed Safwat Gawady |
+| **Prepared By** | Ahmed Safwat Gawady |
 | **Estimated Reading Time** | 12 minutes |
 | **Privacy Note** | The events, organization, characters, figures, and operational situations in this article are based on my experience to help the article deliver its value and are created only to explain the analytical concepts. They are not based on the author’s employer, colleagues, customers, systems, or actual projects. |
 
