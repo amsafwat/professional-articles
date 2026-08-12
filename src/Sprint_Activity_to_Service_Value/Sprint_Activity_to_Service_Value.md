@@ -115,23 +115,7 @@ So a mature team should be comfortable saying two things at the same time:
 
 There is no contradiction there. That is learning.
 
-## Image Placeholder — The Learning Loop Beyond the Sprint
-
-**Purpose:** Illustrate how Scrum delivery evidence and ITIL continual-improvement evidence reinforce each other.
-
-**Image Prompt:** Create a clean professional editorial diagram showing a circular learning loop. On the left, show Sprint Goal, Scrum Team, and Done Increment. On the right, show Service in Use, User Experience, Operations, and Support Evidence. Connect them through Inspect, Learn, and Adapt, with the loop returning to product and service priorities. Keep the visual conceptual, not tied to any real software.
-
-**Aspect Ratio:** 16:9
-
-**Required Labels:** Sprint Goal; Done Increment; Service in Use; Evidence; Inspect; Learn; Adapt; Value
-
-**Style Guidance:** Minimal modern business illustration, white and light gray background, restrained details, clear flow, editorial rather than infographic-heavy.
-
-**Avoid:** Scrum-board screenshots, ITSM tool interfaces, company logos, real incident records, excessive icons, process bureaucracy visual clichés.
-
-**Alt Text:** A circular learning loop connects a Done Increment with service use, evidence, inspection, learning, and adaptation.
-
-**Suggested Caption:** The Sprint can finish while the learning continues.
+![XZctH](images\XZctH.jpg)
 
 ## The Sprint Review Can Look Further Than the Sprint
 

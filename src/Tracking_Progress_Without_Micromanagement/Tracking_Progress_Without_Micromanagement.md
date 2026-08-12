@@ -261,23 +261,7 @@ A team dashboard should first help manage the work system.
 
 Individual performance conversations require a broader evidence base.
 
-## Image Placeholder — Visibility Without Hovering
-
-**Purpose:** Show a manager maintaining clear visibility of progress while the team works independently rather than being constantly interrupted for status updates.
-
-**Image Prompt:** Create a professional editorial illustration of a manager reviewing a simple shared progress board from a short distance while a small team works independently. The board should show a clear goal, current progress, one blocker, and one decision needed. The manager should look informed and supportive, not controlling. The team should appear focused and autonomous. The composition should visually contrast structured visibility with intrusive hovering without using exaggerated body language.
-
-**Aspect Ratio:** 16:9
-
-**Required Labels:** “Goal”, “Progress”, “Blocker”, “Decision Needed”
-
-**Style Guidance:** Calm professional editorial illustration, white and light gray background, restrained blue accents, clean shapes, modern business style, minimal interface detail.
-
-**Avoid:** Company logos, real interfaces, surveillance imagery, cameras, threatening management posture, crowded dashboards, or identifiable people.
-
-**Alt Text:** A manager reviews a shared progress board while the team works independently, with goal, progress, blocker, and decision-needed information visible.
-
-**Suggested Caption:** Good visibility allows managers to support the work without becoming part of every task.
+![TPqMP](images\TPqMP.jpg)
 
 ## What Improved, and What Still Needed Judgment
 

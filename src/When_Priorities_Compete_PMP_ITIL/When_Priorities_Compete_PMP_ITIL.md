@@ -93,23 +93,7 @@ Notice what changed. Nothing became “unimportant.” The sequence became more 
 
 This is an important distinction for managers. Prioritization is not rejection. It is sequencing attention according to consequence.
 
-## Image Placeholder — From Noise to Priority
-
-**Purpose:** Show how a manager converts several competing “urgent” requests into a value-and-risk-based sequence.
-
-**Image Prompt:** Create a clean professional editorial illustration showing a manager facing three incoming work signals: a project milestone warning, a recurring service issue, and a stakeholder request. In the center, show a calm decision filter labeled Objective Risk, Service Value, Time Sensitivity, and Reversibility. On the right, show the requests emerging in a clear prioritized sequence. Use abstract business symbols rather than real software interfaces.
-
-**Aspect Ratio:** 16:9
-
-**Required Labels:** Objective Risk; Service Value; Time Sensitivity; Reversibility; Priority
-
-**Style Guidance:** Minimal professional editorial illustration, white and soft gray background, restrained corporate visual language, clear hierarchy, generous spacing.
-
-**Avoid:** Company logos, real dashboards, real emails, identifiable people, alarmist red-heavy styling, clutter, confidential-looking records.
-
-**Alt Text:** A manager uses four decision filters to prioritize a project delay, a service issue, and a stakeholder request.
-
-**Suggested Caption:** Priority becomes clearer when urgency is tested against consequence and value.
+![Gemini_Generated_Image_i7r9xwi7r9xwi7r9](images\Gemini_Generated_Image_i7r9xwi7r9xwi7r9.png)
 
 ## Priority Is a Conversation, Not Just a Score
 

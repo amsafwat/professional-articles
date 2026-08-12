@@ -305,23 +305,7 @@ The manager still needs professional judgment.
 
 The goal of reporting is not to remove judgment. The goal is to make judgment better informed.
 
-## Image Placeholder — The Manager’s Decision Screen
-
-**Purpose:** Show the difference between a data-heavy dashboard and a management-ready dashboard centered on decisions, exceptions, movement, ownership, and action.
-
-**Image Prompt:** Create a professional editorial illustration showing a manager reviewing a clean executive dashboard on a large screen. The left side should subtly suggest an overloaded reporting view with many small charts and equal visual weight. The right side should show a simplified management-ready view with four clear elements: current state, change versus reference, one highlighted exception, and a named next-action owner. Use abstract synthetic data only. The manager should appear thoughtful rather than celebratory. The composition should communicate focus, clarity, and disciplined decision-making.
-
-**Aspect Ratio:** 16:9
-
-**Required Labels:** “Current State”, “What Changed?”, “Exception”, “Owner / Next Action”
-
-**Style Guidance:** Modern editorial business illustration, restrained white and gray palette with subtle blue accents, high clarity, clean geometry, minimal interface detail, suitable for a professional technical article.
-
-**Avoid:** Real company logos, real software screenshots, confidential records, excessive neon colors, decorative gauges, crowded charts, stock-photo clichés, or identifiable people.
-
-**Alt Text:** A manager compares an overloaded dashboard with a simplified decision-ready dashboard that highlights state, change, exception, and action ownership.
-
-**Suggested Caption:** The strongest management dashboard does not show everything equally; it organizes evidence around the next decision.
+![Gemini_Generated_Image_hmyh3yhmyh3yhmyh](images\Gemini_Generated_Image_hmyh3yhmyh3yhmyh.png)
 
 ## A Practical Review Before You Send the Report
 
