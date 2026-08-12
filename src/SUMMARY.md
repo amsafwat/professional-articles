@@ -2,6 +2,10 @@
 
 - [Home](Home.md)
 
+# August 2026
+
+- [07 August 2026](When_Priorities_Compete_PMP_ITIL/When_Priorities_Compete_PMP_ITIL.md)
+
 # July 2026
 
 - [24 July 2026](The_Decision_Line_How_Managers_Support_Better_Choices_Without_Confusing_Advice_with_Authority/The_Decision_Line_How_Managers_Support_Better_Choices_Without_Confusing_Advice_with_Authority.md)
@@ -44,3 +48,4 @@
 
 - [30 January 2026](Resource_Capacity_Management_Dashboard/Resource_Capacity_Management_Dashboard.md)
 - [23 January 2026](From_Raw_Data_to_Decisions_with_DAX_and_Excel/From_Raw_Data_to_Decisions_with_DAX_and_Excel.md)
+- [09 January 2026](Sprint_Activity_to_Service_Value/Sprint_Activity_to_Service_Value.md)
