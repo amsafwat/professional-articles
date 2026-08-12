@@ -2,7 +2,7 @@
 
 
 
-![home_banner](images\home_banner_02.png)
+![home_banner](images\home_banner_03.png)
 
 Welcome to the my quiet space!
 
