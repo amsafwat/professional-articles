@@ -16,5 +16,5 @@ optional = true
 
 [output.html]
 no-section-label = true
-additional-js = ["mermaid.min.js", "mermaid-init.js"]
+additional-js = ["mermaid.min.js", "mermaid-init.js", "sidebar-toggle.js"]
 additional-css = ["custom.css"]
