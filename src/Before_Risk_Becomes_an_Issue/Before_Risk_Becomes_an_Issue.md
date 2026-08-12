@@ -3,7 +3,7 @@
 | Metadata | Details |
 |---|---|
 | **Article Level** | Complex |
-| **Publication Date** | 21 February 2026, 10:43 PM |
+| **Publication Date** | 20 February 2026, 10:43 PM |
 | **Article Category** | Risk Analytics, Management Control, and Decision Intelligence |
 | **Target Audience** | Senior managers, project and program managers, product managers, service managers, Scrum Masters, risk professionals, business analysts, and analytics professionals |
 | **Prepared by** | Ahmed Safwat Gawady |
