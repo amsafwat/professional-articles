@@ -276,25 +276,7 @@ Power Query profiling is exploratory, not a substitute for governed data-observa
 
 Privacy and security remain constraints throughout the pipeline. Exception tables can be more sensitive than curated outputs because they preserve raw values and error context. Apply least privilege, retention limits, masking, and secure review procedures.
 
-## Editorial Image Placeholder
-
-**Title:** From Raw Records to Trusted Decisions
-
-**Purpose:** Provide a publication hero illustration that communicates governed data cleaning as a transparent control flow rather than cosmetic correction.
-
-**Prompt:** Create a clean editorial illustration showing a stream of inconsistent data records entering a sequence of transparent validation layers. On the left, include subtle examples such as mixed date formats, duplicate identifiers, blank keys, and inconsistent status text. In the center, show labeled layers for Preserve, Profile, Standardize, Validate, Reconcile, and Monitor. On the right, show a calm, organized analytical model feeding a decision dashboard. Include a visible side path for Exceptions so rejected records are not depicted as disappearing. Use abstract, privacy-safe data; no company names, real dashboards, people, logos, or confidential information.
-
-**Aspect Ratio:** 16:9
-
-**Required Labels:** Raw Source; Preserved Landing; Profile; Standardize; Validate; Exceptions; Reconcile; Curated Model; Monitor
-
-**Style Guidance:** Professional editorial vector style; restrained blue, teal, charcoal, and warm amber palette; light background; crisp typography; strong visual hierarchy; generous whitespace; suitable for a technical leadership publication.
-
-**Avoid:** Photorealistic screens, vendor logos, neon cyber imagery, unreadable microtext, implied perfect accuracy, data rows vanishing without explanation, identifiable people, and cluttered dashboard widgets.
-
-**Alt Text:** Editorial flow showing inconsistent raw records passing through preservation, profiling, standardization, validation, exception handling, reconciliation, and monitoring before reaching a curated analytical model.
-
-**Caption:** Reliable analytics begins with preserving evidence and making every acceptance, rejection, and reconciliation rule visible.
+![Gemini_Generated_Image_xmetkzxmetkzxmet](images\Gemini_Generated_Image_xmetkzxmetkzxmet.png)
 
 ## Final Professional Judgment
 

@@ -381,23 +381,7 @@ It is:
 
 > “How do I create enough capacity transparency to make good commitments without reducing people to utilization cells?”
 
-## Image Placeholder — Capacity Is Not Headcount
-
-**Purpose:** Show why total headcount can look sufficient while a specific skill or time period is overloaded.
-
-**Image Prompt:** Create a professional editorial infographic showing a resource-capacity dashboard. On the left, display a simple total-team view that appears healthy with overall capacity slightly above demand. On the right, break the same total into skill groups and show one specialist group exceeding available capacity while another group has spare capacity. Include a small future trend showing the constraint becoming visible two periods ahead. Use synthetic data only.
-
-**Aspect Ratio:** 16:9
-
-**Required Labels:** “Available Capacity”, “Committed Demand”, “Capacity Gap”, “Skill Constraint”, “Future Demand”
-
-**Style Guidance:** Clean analytical business infographic, white and light gray palette, restrained blue and amber accents, minimal clutter, readable labels, modern management-report aesthetic.
-
-**Avoid:** Real company logos, real employee names, actual screenshots, crowded Gantt charts, unrealistic gauges, or performance-ranking imagery.
-
-**Alt Text:** A capacity dashboard shows healthy total capacity but reveals overload in a specialist skill group when the same data is segmented.
-
-**Suggested Caption:** Overall capacity can look healthy while the capability needed for the work is already constrained.
+![Gemini_Generated_Image_gwbrmugwbrmugwbr](images\Gemini_Generated_Image_gwbrmugwbrmugwbr.png)
 
 ## What Improved, and What Stayed Difficult
 

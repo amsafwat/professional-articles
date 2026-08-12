@@ -618,23 +618,7 @@ A management dashboard should sometimes show **Data Check** instead of a perform
 
 That is more professional than presenting a confident KPI from incomplete evidence.
 
-## Image Placeholder — From Rows to Judgment
-
-**Purpose:** Visualize the full transformation from raw tabular data through Excel validation and a Power BI semantic model into governed measures, insight, and a management decision.
-
-**Image Prompt:** Create a sophisticated editorial infographic with a left-to-right flow. Begin with a dense but clean table of synthetic raw transaction rows. Move to an Excel-like validation layer showing a SUMIFS check, a COUNTIFS denominator check, and an unmapped-category warning. Then show a simplified star-schema semantic model feeding reusable DAX measures. Finish with a management dashboard that highlights current value, change, denominator, exception, and decision. The final manager should be shown interpreting evidence rather than simply looking at charts.
-
-**Aspect Ratio:** 16:9
-
-**Required Labels:** “Raw Data”, “Validate”, “Business Rules”, “Semantic Model”, “DAX Measures”, “Insight”, “Decision”
-
-**Style Guidance:** Professional technical editorial infographic, white and gray palette with restrained blue accents, crisp typography, high clarity, modern analytics aesthetic, enough detail to show progression without becoming a software screenshot.
-
-**Avoid:** Real company data, actual branded interfaces, logos, confidential records, excessive code text, futuristic AI imagery, or decorative charts without meaning.
-
-**Alt Text:** Raw transaction rows flow through Excel validation, a semantic model, and DAX measures before becoming a management insight and decision.
-
-**Suggested Caption:** The formula is only one layer; reliable decisions depend on validation, business meaning, context, and interpretation around it.
+![Gemini_Generated_Image_d8id8md8id8md8id](images\Gemini_Generated_Image_d8id8md8id8md8id.png)
 
 ## What Improved, and What Remained Open
 

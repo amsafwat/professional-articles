@@ -275,25 +275,7 @@ Decision logs also create sensitive records. Access should follow least privileg
 
 Finally, a recommendation may remain unresolved because evidence is insufficient. Deferral is a decision only when an authorized owner accepts the consequences, defines what evidence is needed, assigns ownership, and sets a new deadline. Silent delay is not prudent uncertainty management.
 
-## Editorial Image Placeholder
-
-**Title:** The Decision Line Between Evidence and Authority
-
-**Purpose:** Create a publication hero visual that distinguishes analytical support, independent challenge, and managerial authorization without presenting them as competing roles.
-
-**Prompt:** Design a sophisticated editorial illustration for a banking-management article. Show a horizontal decision journey beginning with verified data and dashboards, moving through options, assumptions, scenario analysis, and an independent challenge checkpoint, then reaching a clearly marked decision boundary. Beyond the boundary, show an authorized managerial decision, controlled execution, and outcome monitoring. Include three subtle privacy-safe banking motifs: a corporate payment batch, a digital-service failover path, and a system-migration wave. Use abstract records and generic interfaces only. The analytical recommendation should point toward the decision boundary but must not cross it automatically.
-
-**Aspect Ratio:** 16:9
-
-**Required Labels:** Evidence; Options; Assumptions; Analysis; Recommendation; Effective Challenge; Decision Authority; Conditions; Execution; Review
-
-**Style Guidance:** Premium editorial vector design; calm navy, teal, slate, and restrained amber; light neutral background; clear hierarchy; elegant geometric forms; readable labels; suitable for a senior banking and technology audience.
-
-**Avoid:** Real bank names or logos, identifiable people, photorealistic dashboards, autonomous AI deciding alone, a robot approving transactions, unreadable microtext, red alarm overload, guaranteed outcomes, and decorative complexity.
-
-**Alt Text:** Editorial decision flow showing evidence, options, assumptions, analysis, recommendation, and challenge stopping at a clear boundary before authorized management choice, execution, and review.
-
-**Caption:** Good decision support sharpens the choice; sound governance keeps authority and accountability with the authorized owner.
+![Gemini_Generated_Image_e7agtee7agtee7ag](images\Gemini_Generated_Image_e7agtee7agtee7ag.png)
 
 ## Final Professional Judgment
 

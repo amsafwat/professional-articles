@@ -551,23 +551,7 @@ What condition closes or downgrades the risk?
 
 The dashboard should support those questions rather than reduce the register to a heat map.
 
-## Image Placeholder — Risk Before Issue
-
-**Purpose:** Visualize how weak operational signals develop into validated risk exposure and, if unmanaged or unavoidable, into a realized issue.
-
-**Image Prompt:** Create a sophisticated editorial business illustration showing a horizontal progression from weak early signals to emerging risk, active mitigation, and finally a realized issue. On the left, show subtle abstract indicators such as a rising backlog line, repeated small warning markers, a delayed dependency, and increasing capacity pressure. In the center, show a manager and team reviewing an analytical risk dashboard with probability, impact, trend, trigger, and owner. On the right, show two possible paths: one where mitigation reduces the risk and another where the risk materializes into an issue requiring incident or recovery response. Use synthetic abstract data and no real company interfaces.
-
-**Aspect Ratio:** 16:9
-
-**Required Labels:** “Weak Signals”, “Validated Risk”, “Response”, “Mitigated”, “Issue Materialized”
-
-**Style Guidance:** Professional editorial infographic, clean white and gray background, restrained blue and amber accents, analytical rather than dramatic, clear directional flow, suitable for an advanced management and analytics article.
-
-**Avoid:** Real logos, real dashboards, confidential data, disaster imagery, alarmist red overload, stock photography, or exaggerated futuristic AI graphics.
-
-**Alt Text:** A progression from weak operational signals through validated risk and response, splitting into mitigated risk or a materialized issue.
-
-**Suggested Caption:** The analytical objective is not perfect prediction; it is earlier recognition of changing exposure while response options still exist.
+![Gemini_Generated_Image_fpwh91fpwh91fpwh](images\Gemini_Generated_Image_fpwh91fpwh91fpwh.png)
 
 ## What a Manager Should See on the Risk Dashboard
 

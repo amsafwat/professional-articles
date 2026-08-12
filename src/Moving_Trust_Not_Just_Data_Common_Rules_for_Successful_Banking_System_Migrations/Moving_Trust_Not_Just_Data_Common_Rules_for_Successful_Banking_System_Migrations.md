@@ -433,25 +433,7 @@ Historical data may be intentionally transformed, aggregated, or archived rather
 
 This article is a professional operating model, not legal, regulatory, cybersecurity, accounting, or architecture advice for a specific institution. Applicable laws, supervisory requirements, internal policies, data classifications, risk appetite, and qualified control functions take precedence.
 
-## Editorial Image Placeholder
-
-**Title:** Moving Trust Across Banking Systems
-
-**Purpose:** Create a publication hero illustration showing that a successful banking migration transfers data, relationships, controls, and accountability through a governed path.
-
-**Prompt:** Design a sophisticated editorial vector illustration of two generic banking technology ecosystems: a legacy platform on the left and a modern target platform on the right. Between them, show a controlled migration bridge containing labeled checkpoints for Scope, Profile, Map, Protect, Rehearse, Reconcile, Cut Over, and Monitor. Split the bridge into two visible movement patterns: an Online lane with initial load, continuous synchronization, and a short cutover; and an Offline lane with quiescence, snapshot, secure transfer, load, and validation. Include abstract customer, account, entitlement, transaction, and document relationships moving together. Show an exception route and a rollback path. Use privacy-safe generic data and no real institution details.
-
-**Aspect Ratio:** 16:9
-
-**Required Labels:** Legacy System; Target System; Business Scope; Data Mapping; Security; Online Synchronization; Offline Snapshot; Reconciliation; Cutover; Rollback; Hypercare
-
-**Style Guidance:** Premium editorial vector style; calm navy, teal, slate, and restrained amber; light neutral background; clear directional flow; strong hierarchy; readable typography; suitable for senior banking, technology, and governance audiences.
-
-**Avoid:** Real bank logos, identifiable customers, photorealistic production screens, loose files flying without controls, autonomous AI approving cutover, guaranteed success symbols, unreadable code, excessive red alerts, and decorative complexity.
-
-**Alt Text:** Governed bridge moving customer, account, entitlement, transaction, and document relationships from a legacy banking system to a target through online and offline migration lanes, with reconciliation, rollback, and hypercare controls.
-
-**Caption:** Successful migration moves business meaning and control evidence with the data—and proves both before the target becomes authoritative.
+![Gemini_Generated_Image_iiotvsiiotvsiiot](images\Gemini_Generated_Image_iiotvsiiotvsiiot.png)
 
 ## Final Professional Judgment
 
