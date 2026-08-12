@@ -38,3 +38,9 @@
 - [27 February 2026](From_Data_Clutter_to_Clear_Insight_How_Sorting_Filtering_and_Grouping_Reveal_What_Matters_in_Power_BI/From_Data_Clutter_to_Clear_Insight_How_Sorting_Filtering_and_Grouping_Reveal_What_Matters_in_Power_BI.md)
 - [20 February 2026](Before_Risk_Becomes_an_Issue/Before_Risk_Becomes_an_Issue.md)
 - [13 February 2026](From_Dashboard_to_Decision/From_Dashboard_to_Decision.md)
+- [06 February 2026](Tracking_Progress_Without_Micromanagement/Tracking_Progress_Without_Micromanagement.md)
+
+# January 2026
+
+- [30 January 2026](Resource_Capacity_Management_Dashboard/Resource_Capacity_Management_Dashboard.md)
+- [23 January 2026](From_Raw_Data_to_Decisions_with_DAX_and_Excel/From_Raw_Data_to_Decisions_with_DAX_and_Excel.md)
